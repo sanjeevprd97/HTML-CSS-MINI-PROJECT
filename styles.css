@@ -20,7 +20,7 @@ body{
 }
 .mobileNav .image{
     opacity: 0;
-    object-fit: fill;
+    object-fit: fit;
     position: absolute;
     top: 0;
     left: 0;
